@@ -1,7 +1,7 @@
 # API Cidadão de Olho
 
 ## O que é o Cidadão de Olho?
-É uma API de acesso ao dados disponibilizados no web service da Assembléia Legislativa de Minas Gerais (ALMG). Ela fornece 3 serviços principais:
+É uma API de acesso aos dados disponibilizados no web service da Assembléia Legislativa de Minas Gerais (ALMG). Ela fornece 3 serviços principais:
 -  Mostra os top 5 deputados que mais pediram reembolso de verbas indenizatórias por mês, considerando somente o ano de 2019;
 -  Mostra o ranking das redes sociais mais utilizadas dentre os deputados;
 -  Grava em um banco de dados (MongoDB) o retorno de qualquer consulta ao web service da ALMG
